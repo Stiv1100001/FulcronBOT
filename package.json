@@ -1,0 +1,16 @@
+{
+    "name": "fulcron-bot",
+    "version": "0.0.1",
+    "main": "index.js",
+    "author": "Stiv1100001",
+    "license": "MIT",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "start": "node ."
+    },
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "telegraf": "^4.4.2"
+    }
+}
